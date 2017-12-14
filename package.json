@@ -1,0 +1,32 @@
+{
+  "name": "simple-ochl-cache",
+  "version": "0.1.0",
+  "description": "A simple in-memory ochl + v cache useful to turn a list of trades into stock candles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ale316/simple-ochl-cache.git"
+  },
+  "keywords": [
+    "ochl",
+    "ochlv",
+    "ochl cache",
+    "stock candles",
+    "crypto chart",
+    "bitcoin chart",
+    "bitcoin candles"
+  ],
+  "author": "Alessandro Marin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ale316/simple-ochl-cache/issues"
+  },
+  "homepage": "https://github.com/ale316/simple-ochl-cache#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.19.4"
+  }
+}
